@@ -1,0 +1,26 @@
+/*--------------------------------------------------------------
+# featured slider
+--------------------------------------------------------------*/
+header.featured_slider_title.entry-header {
+    text-align: left;
+}
+.featured_slider_disc.entry-summary {
+    text-align: left;
+}
+.image_btn.button {
+    text-align: left;
+}
+.hentry-inner {
+    background-color: #222222;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    display: -webkit-box;
+    display: -webkit-flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    aspect-ratio: 16 / 9;
+}
+
